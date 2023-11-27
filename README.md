@@ -1,5 +1,4 @@
 # Observability
-This is the readme file. 
-Read me.
 
-ME
+Code for backend tracing test with Jaeger.
+CIS4930 (ESEP), Fall 2024
